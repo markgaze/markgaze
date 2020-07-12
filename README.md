@@ -6,7 +6,7 @@ I'm Mark, currently a Front End Developer at [@emisgroup](https://github.com/emi
 
 Having worked with C# and the .NET Framework for 10 years, I have spent the last couple of years working with React and TypeScript.
 
-![Twitter Follow](https://img.shields.io/twitter/follow/BlueAndWhiteOwl?label=Follow%20me%20on%20Twitter&style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/BlueAndWhiteOwl?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/BlueAndWhiteOwl)
 
 #### 🎉 Current Languages/Frameworks
 
