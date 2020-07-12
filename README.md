@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=markgaze.markgaze)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-markgaze-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/markgaze/)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/BlueAndWhiteOwl?label=Follow%20me%20on%20Twitter&style=social)](https://twitter.com/BlueAndWhiteOwl)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/markgaze/)
+
 
 I'm Mark, currently a Front End Developer at [@emisgroup](https://github.com/emisgroup) 🏢 and Special Teams Coordinator (and PR Officer) at [@yorkshirerams](https://github.com/yorkshirerams) 🏈
 
