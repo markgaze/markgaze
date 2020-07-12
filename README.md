@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=markgaze.markgaze)
 
-I'm Mark, currently a Front End Developer at @emisgroup 🏢 and Special Teams Coordinator (and PR Officer) at @yorkshirerams 🏈
+I'm Mark, currently a Front End Developer at [@emisgroup](https://github.com/emisgroup) 🏢 and Special Teams Coordinator (and PR Officer) at [@yorkshirerams](https://github.com/yorkshirerams) 🏈
 
 Having worked with C# and the .NET Framework for 10 years, I have spent the last couple of years working with React and TypeScript.
 
