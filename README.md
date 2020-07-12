@@ -11,7 +11,7 @@ I'm Mark, currently a Front End Developer at [@emisgroup](https://github.com/emi
 
 Having worked with C# and the .NET Framework for 10 years, I have spent the last couple of years working with React and TypeScript.
 
-#### Some of my projects
+#### 💻 Some of my projects
 
 - https://markgaze.dev - My blog/portfolio site (if I ever get round to it 🙈)
 - https://rams.football - The new homepage of the Yorkshire Academy Rams
