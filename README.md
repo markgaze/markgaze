@@ -9,6 +9,8 @@ I'm Mark, currently a Front End Developer at [@emisgroup](https://github.com/emi
 
 Having worked with C# and the .NET Framework for 10 years, I have spent the last couple of years working with React and TypeScript.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=markgaze&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 #### 💻 Some of my projects
 
 - https://markgaze.dev - My blog/portfolio site (if I ever get round to it 🙈)
