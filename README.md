@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=markgaze.markgaze)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-markgaze-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/markgaze/)
 
 [![Twitter](https://img.shields.io/badge/Twitter-BlueAndWhiteOwl-blue?style=social&logo=Twitter)](https://twitter.com/BlueAndWhiteOwl)
