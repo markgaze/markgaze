@@ -17,8 +17,6 @@ Having worked with C# and the .NET Framework for 10 years, I have spent the last
 - https://rams.football - The new homepage of the Yorkshire Academy Rams
 - https://teletext.markgaze.dev - A nostalgic recreation of the BBC Ceefax teletext system (with _some_ up-to-date football ⚽ scores and league tables)
 
-[![Top Langs](https://github-readme-stats.markgaze.dev/api/top-langs/?username=markgaze&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
-
 #### 🎉 Current Languages/Frameworks
 
 - React
@@ -33,3 +31,5 @@ Having worked with C# and the .NET Framework for 10 years, I have spent the last
 - GoLang
 - Angular
 - .NET Framework
+
+[![Top Langs](https://github-readme-stats.markgaze.dev/api/top-langs/?username=markgaze&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
