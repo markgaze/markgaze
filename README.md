@@ -20,6 +20,7 @@ Having worked with C# and the .NET Framework for 10 years, I have spent the last
 #### 🎉 Current Languages/Frameworks
 
 - React
+- Svelte
 - Next.js
 - TypeScript
 
