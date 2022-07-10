@@ -23,6 +23,7 @@ Having worked with C# and the .NET Framework for 10 years, I have spent the last
 - React
 - Svelte
 - Next.js
+- Remix
 - TypeScript
 
 #### 📆 Previous Languages/Frameworks
