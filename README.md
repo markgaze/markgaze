@@ -1,15 +1,8 @@
 ### Hi there 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-markgaze-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/markgaze/)
+I'm Mark, currently a Front End Developer at [Optum UK](https://github.com/emisgroup) 🏢 and former Special Teams Coordinator and PR Officer at [@yorkshirerams](https://github.com/yorkshirerams) 🏈
 
-[![Twitter](https://img.shields.io/badge/Twitter-BlueAndWhiteOwl-blue?style=social&logo=Twitter)](https://twitter.com/BlueAndWhiteOwl)
-
-
-I'm Mark, currently a Front End Developer at [@emisgroup](https://github.com/emisgroup) 🏢 and former Special Teams Coordinator and PR Officer at [@yorkshirerams](https://github.com/yorkshirerams) 🏈
-
-Having worked with C# and the .NET Framework for 10 years, I have spent the last couple of years working with React and TypeScript.
-
-![GitHub Stats](https://github-readme-stats.markgaze.dev/api?username=markgaze&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+I have spent the last decade working with in front end development mainly using React and Astro, having previously worked with C# and the .NET Framework.
 
 #### 💻 Some of my projects
 
@@ -22,9 +15,8 @@ Having worked with C# and the .NET Framework for 10 years, I have spent the last
 
 - React
 - Svelte
-- Next.js
 - Astro
-- Remix
+- Remix/React Router
 - TypeScript
 
 #### 📆 Previous Languages/Frameworks
@@ -34,6 +26,5 @@ Having worked with C# and the .NET Framework for 10 years, I have spent the last
 - SQL
 - GoLang
 - Angular
+- Next.js
 - .NET Framework
-
-[![Top Langs](https://github-readme-stats.markgaze.dev/api/top-langs/?username=markgaze&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
