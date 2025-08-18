@@ -8,7 +8,6 @@ I have spent the last decade working with in front end development mainly using 
 
 - https://markgaze.dev - My blog/portfolio site (if I ever get round to it 🙈)
 - https://rams.football - The new homepage of the Yorkshire Academy Rams
-- https://www.yorkshireacademyassassins.co.uk - A homepage for the Yorkshire Academy Assassins American Football teams.
 - https://teletext.markgaze.dev - A nostalgic recreation of the BBC Ceefax teletext system (with _some_ up-to-date football ⚽ scores and league tables)
 
 #### 🎉 Current Languages/Frameworks
