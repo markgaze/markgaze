@@ -13,7 +13,6 @@ I have spent the last decade working with in front end development mainly using 
 #### 🎉 Current Languages/Frameworks
 
 - React
-- Svelte
 - Astro
 - Remix/React Router
 - TypeScript
@@ -27,3 +26,4 @@ I have spent the last decade working with in front end development mainly using 
 - Angular
 - Next.js
 - .NET Framework
+- Svelte
