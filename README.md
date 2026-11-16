@@ -15,6 +15,7 @@ I have spent the last decade working with in front end development mainly using 
 - React
 - Astro
 - Remix/React Router
+- TanStack Start
 - TypeScript
 
 #### 📆 Previous Languages/Frameworks
